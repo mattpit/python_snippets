@@ -1,0 +1,6 @@
+ {
+    "PARAMETERS": {
+      "SKIP_CONFIRMATION": "1",
+      "REFERER" : "ref_test_1"
+    }
+  }
